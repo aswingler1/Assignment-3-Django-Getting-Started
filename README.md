@@ -11,6 +11,7 @@ Simple assignment getting started with templates and static files.
 
 ## Submitting Assignment 3
 
-You should upload all the project files to a folder called *Assignment_3* in that repository. You will be putting all your assignments for this class in that repository, except your final project which likely will have it's own repository.
+You should upload all the project files to a folder called *Assignment_3* in that repository. You will be putting all your assignments for this class in that repository, except your final project which likely will have its own repository.
 
-You should make sure that your *manage.py* path in the repository is such that it can be reached via *./Assignment_3/manage.py*
+You should make sure that your *manage.py* path in the repository is such that it can be reached via *./Assignment_3/manage.py*. 
+Additionally, your "Hello World" template should be reachable via the index route (`/`).
