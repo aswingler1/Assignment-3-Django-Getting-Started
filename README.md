@@ -8,6 +8,7 @@ Simple assignment getting started with templates and static files.
     * I recommend using Foundations 6
 * Host/Use static files embedded in your template
 * Be submitted to GitHub correctly
+* You should be able to view the site on your local machine at http://localhost/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/1.10/topics/http/urls/)
 
 ## Submitting Assignment 3
 
