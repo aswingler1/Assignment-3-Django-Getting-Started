@@ -22,4 +22,4 @@ git commit -m "Assignment 3 Submission" #Commit changes to branch
 git push --set-upstream origin assignment3 #Push code up to assignment3 branch on remote
 ```
 
-You should have your code setup such that when cloned in your folder it can be run directly via python manage runserver. If you chose to you can containerize your code via docker. If you choose to do this you should have either a docker-compose.yml in your root directory for me to launch your project or a Dockerfile in your root directory I can build a container from.
+You should have your code setup such that when cloned in your folder it can be run directly via python manage runserver. If you chose to you can containerize your code via docker. If you choose to do this you should have either a **docker-compose.yml** in your root directory for me to launch your project or a **Dockerfile** in your root directory I can build a container from.
